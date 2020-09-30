@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# What is this game?
 
-You can use the [editor on GitHub](https://github.com/imagitama/phasmophobia-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Phasmophobia is a VR (and non-VR) horror game in which up to 4 players enter a building haunted by a ghost and try to determine what ghost it is using evidence without getting killed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Available on Steam right now: https://store.steampowered.com/app/739630/Phasmophobia/
 
-### Markdown
+# [How to Play](./how-to-play)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Click the heading above to get started quickly with the game.
 
-```markdown
-Syntax highlighted code block
+# [Voice Detection](./voice)
 
-# Header 1
-## Header 2
-### Header 3
+How to enable voice detection.
 
-- Bulleted
-- List
+# [Items](./items)
 
-1. Numbered
-2. List
+What each item does and if they are forms of evidence.
 
-**Bold** and _Italic_ and `Code` text
+# [Ghosts](./ghosts)
 
-[Link](url) and ![Image](src)
-```
+How to identify each ghost and what are their strengths and weaknesses.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# [Maps](./maps)
 
-### Jekyll Themes
+The layout of each map and tips for defeating them.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imagitama/phasmophobia-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# [Tips and Tricks](./tips-and-tricks)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Various hints for how to get better at the game.
