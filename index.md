@@ -12,6 +12,10 @@ Available on Steam right now: [https://store.steampowered.com/app/739630/Phasmop
 
 Click the heading above to get started quickly with the game.
 
+# [Evidence](./evidence)
+
+What is evidence and how to collect it.
+
 # [Voice Detection](./voice)
 
 How to enable voice detection.
