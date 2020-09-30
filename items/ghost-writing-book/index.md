@@ -9,3 +9,9 @@ Place the ghost writing book inside the room you know the ghost is haunting and 
 ## Evidence
 
 You do **not** need to take a photo of the book for evidence.
+
+## Images
+
+![In your hand](./ghost_writing_book_in_hand.png)
+
+![Placed down](./ghost_writing_book_placed.png)
