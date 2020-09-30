@@ -36,8 +36,8 @@ Items you should initially bring:
 - candles (to detect their movement)
 - any sensors you have purchased
 
-### Use a kitchen timer
+### Use a phone timer app
 
-Bring along a physical or phone timer during the setup time to let you know how long is left in the setup phase.
+Bring along a kitchen timer or phone timer app during the setup time to let you know how long is left in the setup phase.
 
 **If you alt-tab to a website for a timer it might break your voice recognition!**
