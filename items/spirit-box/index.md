@@ -28,4 +28,10 @@ You can test if your voice detection is working by turning on the spirit box and
 
 ## Without voice detection
 
-Say anything into your mic and (if the ghost heard you) it will give you a random response.
+Say anything into your mic and (if the ghost heard you) it will give you a random response
+
+## Images
+
+![In your hand](./spirit_box_in_hand.png)
+
+![Placed on floor](./spirit_box_placed.png)
