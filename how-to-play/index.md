@@ -30,3 +30,15 @@ Tips:
 
 - An entire hall and some side rooms could have freezing temperatures
 - The thermometer is not required to detect this
+
+### Ghost Writing Book
+
+If you place the Ghost Writing Book in the room the ghost is haunting it could write words into it like "kill kill kill".
+
+### EMF Reader
+
+If the EMF Reader goes up to the maximum level (5) then it is a form of evidence.
+
+### Spirit Box
+
+If you talk into the Spirit Box and the ghost replies (with a 1 word answer like "kill" or "ok" or "hello" etc.) then it is evidence.
