@@ -1,12 +1,30 @@
 # How to Play
 
-The objective of this game is to determine what kind of ghost is haunting the building. You do this by finding various forms of evidence and selecting them from your [Journal](#Journal).
+The objective of this game is to determine what kind of ghost is haunting the building. You do this by finding various forms of evidence and selecting them from your [Journal](#journal).
 
 Each player spawns into a ghost hunting van loaded with equipment, sensors, a monitor and an explanation of the ghost and optional objectives.
 
 Each player has 2 slots on their person to store items and 2 hands to carry items.
 
+## Starting
+
 When your team is ready, pick up the main door key on the desk and open the front door. This begins a 5 minute timer (called the "Setup Phase") which means the ghost is unlikely to hunt you (try and kill you) but is there.
+
+After the 5 minutes ends, the ghost gets more active. At a random point (or maybe if you anger it by using its name) the ghost will begin to enter [hunting mode](#hunting-mode).
+
+## Hunting mode
+
+When the ghost wants to try to kill you, it enters a hunting mode. Your flashlights will flicker and the house lights will flicker for approximately 8 seconds. The front door will lock for the duration of the hunt.
+
+After that, it will move through the house and if it is near you, could try and kill you!
+
+To evade this you can:
+
+- hide inside a closet or locker
+- hide inside a room and close the door
+- burn a smudge stick when the ghost is near you (can be purchased)
+
+When the lights stop flickering then the hunt is over.
 
 ## Van
 
