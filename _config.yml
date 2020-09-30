@@ -1,6 +1,13 @@
 theme: jekyll-theme-architect
 title: Phasmophobia Guide
 description: A guide to the VR horror game Phasmophobia including the items, ghosts, maps, tips, tricks and more.
+show_downloads: False
+
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
 
 links:
   section_1:
