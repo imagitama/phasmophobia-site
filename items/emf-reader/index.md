@@ -10,6 +10,7 @@ An inventory item that all players start with.
 ## Photos
 
 ![In your hand](./emf_reader_held_in_hand.png)
+
 ![Placed on the floor](./emf_reader_placed.png)
 
 ## Evidence
