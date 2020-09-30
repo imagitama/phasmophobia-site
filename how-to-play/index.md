@@ -1,14 +1,14 @@
 # How to Play
 
-The objective of this game is to determine what kind of ghost is haunting the building. You do this by finding various forms of evidence and selecting them from your journal (below).
+The objective of this game is to determine what kind of ghost is haunting the building. You do this by finding various forms of evidence and selecting them from your [Journal](#Journal).
 
 Each player spawns into a ghost hunting van loaded with equipment, sensors, a monitor and an explanation of the ghost and optional objectives.
 
 Each player has 2 slots on their person to store items and 2 hands to carry items.
 
-When your team is ready, pick up the main door key on the desk and open the front door. This begins a 
+When your team is ready, pick up the main door key on the desk and open the front door. This begins a 5 minute timer (called the "Setup Phase") which means the ghost is unlikely to hunt you (try and kill you) but is there.
 
-## The van
+## Van
 
 ### Monitor
 
