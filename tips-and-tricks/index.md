@@ -4,20 +4,40 @@ title: General tips and tricks for beating the game
 
 # Tips and Tricks
 
-## Use a kitchen timer during the setup time
+A list of tips and tricks to help you defeat the ghost and win the game.
+
+## General
+
+### Avoid the darkness
+
+It drops your sanity which makes the ghost stronger.
+
+## Voice detection
+
+### Speak slowly and clearly
+
+It uses Microsoft Cortana which is never perfect.
+
+### Ensure your mouse cursor has clicked on the game window
+
+Otherwise the entire recognition system breaks. Test it by using the Spirit Box and checking it replies.
+
+## Setup phase
+
+### Only take items to find the ghost's room
+
+The remaining items can be retrieved when you return to the van.
+
+Items you should initially bring:
+
+- EMF Reader
+- UV Flashlight
+- Spirit Box
+- candles (to detect their movement)
+- any sensors you have purchased
+
+### Use a kitchen timer
 
 Bring along a physical or phone timer during the setup time to let you know how long is left in the setup phase.
 
 **If you alt-tab to a website for a timer it might break your voice recognition!**
-
-## Avoid the darkness
-
-It drops your sanity which makes the ghost stronger.
-
-## Only take items with you during setup that you need to use to find the ghost
-
-The remaining items can be retrieved when you return to the van.
-
-## Avoid going too close to walls as you could glitch through them
-
-Some maps make you fall through the walls and unless you have a "playspace mover" you cannot fix yourself.
