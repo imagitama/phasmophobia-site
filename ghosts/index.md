@@ -1,19 +1,19 @@
 # Ghosts
 
-## Spirit
+## Poltergeist
 
-The most common kind of ghost.
+A loud ghost that can throw and manipulate objects.
 
 ### Strengths
 
-- foo
+- can throw objects around the room
 
 ### Weaknesses
 
-- foo
+- ineffective in an empty room
 
 ### Evidence
 
-- a
-- b
-- c
+- Fingerprints
+- Spirit Box
+- Ghost Orb
