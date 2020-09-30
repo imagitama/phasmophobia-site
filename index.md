@@ -1,3 +1,7 @@
+---
+title: A guide to the popular VR horror game Phasmophobia
+---
+
 # What is this game?
 
 Phasmophobia is a VR (and non-VR) horror game in which up to 4 players enter a building haunted by a ghost and try to determine what ghost it is using evidence without getting killed.
