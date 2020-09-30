@@ -2,7 +2,7 @@
 
 Phasmophobia is a VR (and non-VR) horror game in which up to 4 players enter a building haunted by a ghost and try to determine what ghost it is using evidence without getting killed.
 
-Available on Steam right now: https://store.steampowered.com/app/739630/Phasmophobia/
+Available on Steam right now: [https://store.steampowered.com/app/739630/Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia)
 
 # [How to Play](./how-to-play)
 
