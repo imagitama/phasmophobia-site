@@ -18,11 +18,13 @@ When the ghost wants to try to kill you, it enters a hunting mode. Your flashlig
 
 After that, it will move through the house and if it is near you, could try and kill you!
 
-To evade this you can:
+### How to hide
 
 - hide inside a closet or locker
 - hide inside a room and close the door
-- burn a smudge stick when the ghost is near you (can be purchased)
+- burn a Smudge Stick when the ghost is near you to give yourself more time to hide
+
+### When does the hunt end
 
 When the lights stop flickering then the hunt is over.
 
