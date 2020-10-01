@@ -12,7 +12,7 @@ This item is used to talk to the ghost. If the ghost is nearby and if the ghost 
 
 ## Evidence
 
-If you say anything into the Spirit Box and you hear someone reply using the Spirit Box (it is usually a single word answer) then you have collected the "Spirit Box" evidence.
+If you say anything into the Spirit Box and you hear someone reply using the Spirit Box then you have identified the "Spirit Box" evidence.
 
 **You do not need to take a photo of the Spirit Box for the evidence to count.**
 
@@ -20,9 +20,11 @@ If you say anything into the Spirit Box and you hear someone reply using the Spi
 
 Technically it can give you hints about itself and what to do to defeat it however in most cases just getting a response is enough. You can leave the Spirit Box anywhere and move on with the game.
 
-## What can I ask it?
+You can ask it a variety of questions such as:
 
-Here is a list of questions you can ask it: [https://gameplay.tips/guides/8529-phasmophobia.html](https://gameplay.tips/guides/8529-phasmophobia.html)
+- "Are you there?"
+- "Can we leave?"
+- "Give us a sign"
 
 ## With voice detection
 
