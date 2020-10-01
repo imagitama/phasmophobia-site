@@ -12,7 +12,12 @@ You can place 3 piles of salt per cannister of salt.
 
 The wraith ghost flies and does not leave a footprint or disturbs the salt.
 
-Use the salt to defend yourself against the wraith ghost when it is hunting.
+It completely avoids salt piles.
+
+### Tips for Wraiths
+
+- place salt on the ground to defend yourself against the Wraith when it is hunting
+- if you are lucky you can trap a Wraith in a room because it avoids salt
 
 ## Tips
 
