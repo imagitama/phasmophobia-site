@@ -1,5 +1,20 @@
 # Ghosts
 
+A guide to the different ghosts in the game.
+
+- [Spirit](./spirit)
+- [Wraith](./wraith)
+- [Phantom](./phantom)
+- [Poltergeist](./poltergeist)
+- [Banshee](./banshee)
+- [Jinn](./jinn)
+- [Mare](./mare)
+- [Revenant](./revenant)
+- [Shade](./shade)
+- [Demon](./demon)
+- [Yurei](./yurei)
+- [Oni](./oni)
+
 ## Spirit
 
 The most common kind of ghost. They are usually in one of their hunting grounds after an unexplained death.
