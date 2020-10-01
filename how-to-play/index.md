@@ -28,8 +28,6 @@ When the ghost wants to try to kill you, it enters a hunting mode. Your flashlig
 
 After that, it will move through the house and if it is near you, could try and kill you!
 
-**During the hunt the radio on your shoulder does not work at all.**
-
 ### How to hide
 
 - hide inside a closet or locker
@@ -106,17 +104,25 @@ You can only recover sanity by using Sanity Pills.
 
 <details>
   <summary>Advanced</summary>
- 
-  - you lose sanity at the rate of `deltatime * ghost_sanity_strength` where all ghosts have a `ghost_sanity_strength` of 0.02 but Shade has 0.4
-  - sanity can never drop below 50% in Setup Phase
-  - sanity drains slower in Setup Phase (0.09 vs 0.12)
+ BEFORE READING - This is technical information! It could spoil your play experience knowing too much about how the game works. This information is datamined and could change with future updates, not be implemented in the game, or not fully understood. Read below at your own discretion.
+  
+  # Sanity Information
+  
+  - When looking at a manifested ghost you lose sanity at the rate of `deltatime * ghost_sanity_strength` where all ghosts have a `ghost_sanity_strength` of 0.02 but Shade has 0.04 (It is unknown how or if this is changed at higher difficulties).
+  - Sanity can never drop below 50% in Setup Phase.
+  - Sanity drains slower in Setup Phase (0.09 vs 0.12).
+  - Sanity meters in the van only update every 2 seconds.
+  - Sanity meters in the van fluctuate from -2 to +3 of your actual sanity. EX: If I have 80 sanity the display could show between 78 and 83 sanity.
+  
+  # Equipment Information
+  
+  - Crucifix has a range of 4 meters for all ghosts except the Banshee where the crucifix will have a 6 meter range.
+  
+  # Gameplay Information
+  
+  - The chance for a most ghosts to begin hunting is based on the average sanity of all players in the lobby then by a die roll*. The actual function of this is more complex and is still being looked into.
+  - Ghost events, interactions, and the ghost beginning to use its ability are lower in single player than other player counts.
+  - So far no information has been found to suggest that the difficulty scales with the number of players in a lobby besides the point above this.
+  
+  * The die roll is a random number generated from a range which is specific to each kind of action. For some actions the rolls may be 25% chance, where others have <10% chance.
 </details>
-
-## Ghost Events
-
-An optional objective is to witness a ghost event. It can be one of the following:
-
-- seeing the ghost
-- hearing the ghost walking or its voice
-- seeing the ghost's footprints
-- watching someone else die
