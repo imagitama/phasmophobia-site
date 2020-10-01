@@ -52,6 +52,24 @@ The only ghost that can fly and can travel through walls and floors. It does not
 - Freezing Temperatures
 - Spirit Box
 
+## Phantom
+
+A ghost similar to a Spirit.
+
+### Strengths
+
+- looking at a phantom will drastically lower your sanity
+
+### Weaknesses
+
+- taking a photo if it will make it temporarily disappear
+
+### Evidence
+
+- EMF Level 5
+- Ghost Orb
+- Freezing Temperatures
+
 ## Poltergeist
 
 A loud ghost that can throw and manipulate objects.
