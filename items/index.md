@@ -31,6 +31,10 @@ Shine it on doors, light switches and windows and it might reveal fingerprints w
 
 These items can be purchased from the shop at all levels.
 
+## [Glowstick](./glowstick)
+
+A UV light that can be placed on the ground.
+
 ## [Smudge Stick](./smudge-stick)
 
 Light it with a lighter and it will defend yourself against a ghost **during** the hunt.
@@ -45,9 +49,7 @@ A tool to light candles and the smudge stick.
 
 ## [Thermometer](./thermometer)
 
-It can fulfill the optional objective to detect a room that is very cold (-10C).
-
-**It does not help you with Freezing Temperatures evidence.**
+It can only fulfill the optional objective to detect a room that is very cold (-10C).
 
 ## [Crucifix](./crucifix)
 
@@ -57,20 +59,32 @@ Place it in the room the ghost is haunting and it will help prevent it from hunt
 
 Place it in doorframes and stair cases to see if the ghost leaves a footprint to help you work out which ghost it is (wraiths do not leave footprints!).
 
+## [Tripod](./tripod)
+
+A tripod for the video camera.
+
 # Unlockable items
 
 ## [Sound Sensor](./sound-sensor)
 
-Todo
+Place on a wall and if there is any sound in a room it will show on the map in the van.
 
 ## [Motion Sensor](./motion-sensor)
 
-Todo
+Place on a wall and it detects any movement and reports it on the map in the van.
 
 ## [Infrared Light Sensor](./infrared-light-sensor)
 
-Todo
+Place on a wall and it detects any movement and lights up the area.
 
 ## [Sanity Pills](./sanity-pills)
 
 Use these pills to improve your sanity about 40%.
+
+## [Parabolic Microphone](./parabolic-microphone)
+
+A mobile version of the Sound Sensor.
+
+## [Head-Mounted Camera](./head-mounted-camera)
+
+A video camera that can be placed on your head.
