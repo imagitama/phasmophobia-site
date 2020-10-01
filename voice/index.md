@@ -24,3 +24,8 @@ There are additional questions you can ask using the Ouija Board such as:
 - "How old are you"
 
 etc.
+
+## Tips
+
+- speak slowly and clearly to help the voice detection
+- speak the ghost's name inside the building to anger it so you can find where it is
