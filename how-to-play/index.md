@@ -6,11 +6,21 @@ Each player spawns into a ghost hunting van loaded with equipment, sensors, a mo
 
 Each player has 2 slots on their person to store items and 2 hands to carry items.
 
-## Starting
+## Setup Phase
 
-When your team is ready, pick up the main door key on the desk and open the front door. This begins a 5 minute timer (called the "Setup Phase") which means the ghost is unlikely to hunt you (try and kill you) but is there.
+**Duration: 5 minutes (amateur difficulty)**
 
-After the 5 minutes ends, the ghost gets more active. At a random point (or maybe if you anger it by using its name) the ghost will begin to enter [hunting mode](#hunting-mode).
+When your team is ready, pick up the main door key on the desk and open the front door. This starts the timer.
+
+Use the Setup Phase to determine where the ghost is:
+
+- look for cold breath in a room or hallway
+- use the EMF Reader which shows you recent ghost activity
+- speak its name loudly
+- place candles and watch if they blow out
+- search for fingerprints on doors, windows and light switches
+
+After the 5 minutes ends, the ghost will at some point enter [hunting mode](#hunting-mode).
 
 ## Hunting mode
 
