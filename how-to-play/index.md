@@ -40,6 +40,10 @@ After that, it will move through the house and if it is near you, could try and 
 
 When the lights stop flickering then the hunt is over.
 
+### Notes
+
+- the ghost can start hunting anywhere in the building but has an 80% chance to start from the room they are haunting
+
 ## Van
 
 ### Monitor
