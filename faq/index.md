@@ -22,6 +22,10 @@ Technically yes but it is very very very unlikely.
 
 Yes if you just moved outside and the ghost thinks you are still inside. The ghost is designed not to move outside.
 
+### How often does the ghost hunt?
+
+It is random. It could be 10 seconds after the last hunt or could be 5 minutes. It depends on the ghost type too.
+
 ## Items
 
 ### How do I lose items?
