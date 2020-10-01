@@ -8,17 +8,13 @@ title: Crucifix
 
 The crucifix is used to reduce the chances of a hunt if placed in the room of the ghost.
 
-Some ghosts dislike the crucifix so can protect the user from being attacked depending on the ghost.
+The Banshee ghost dislikes the crucifix so it can protect the user from being attacked if held in their hand or on their belt.
 
-## How to use it - ghost's room
+## Preventing a hunt
 
-When you find the room the ghost is haunting, place the crucifix in the middle of it on the floor.
+When you find the room the ghost is haunting, place the crucifix in the middle of it on the floor to prevent it from hunting.
 
-It has a range so if you place it on one side of the room there is a chance the ghost will spawn on the opposite side and still hunt.
-
-## How to use it - defending yourself
-
-If the ghost dislikes crucifixes you can have it on your belt or in your hand and the ghost is less likely to attack and kill you.
+**Make sure it is in the middle of the room!** It has a small range so if you place it on one side of the room there is a chance the ghost will spawn on the opposite side and still hunt.
 
 ## Tips
 
