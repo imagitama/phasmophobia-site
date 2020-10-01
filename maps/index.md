@@ -4,7 +4,7 @@ There are 4 maps in the game.
 
 ## [Suburban House](./suburban-house)
 
-A 1 story house with a basement and garage.
+A 1 or 2 story house with a basement and garage.
 
 There are 3 variations of this map.
 
