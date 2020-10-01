@@ -8,7 +8,7 @@ title: Spirit Box
 
 This item is used to talk to the ghost. If the ghost is nearby and if the ghost responds to the spirit box it will give you 1 word answers. If it responds to you then it is a form of evidence.
 
-**Ensure the lights are turned off to talk to the ghost.**
+**Ensure the lights are turned off and the ghost is nearby to talk to the ghost.**
 
 ## Evidence
 
