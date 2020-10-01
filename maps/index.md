@@ -1,17 +1,23 @@
 # Maps
 
-## Suburban House
+There are 4 maps in the game.
+
+## [Suburban House](./suburban-house)
 
 A 1 story house with a basement and garage.
 
-## Farmhouse
+There are 3 variations of this map.
+
+## [Farmhouse](./farmhouse)
 
 A 2 story house with an attic.
 
-## School
+There are 2 variations of this map.
+
+## [School](./school)
 
 A large 2 story school.
 
-## Asylum
+## [Asylum](./asylum)
 
 A large asylum hospital.
