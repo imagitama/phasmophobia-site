@@ -4,6 +4,8 @@ title: Crucifix
 
 # Crucifix
 
+**Range: 3 meters (6 meters for Banshee)**
+
 The crucifix is used to reduce the chances of a hunt if placed in the room of the ghost.
 
 Some ghosts dislike the crucifix so can protect the user from being attacked depending on the ghost.
@@ -20,3 +22,4 @@ If the ghost dislikes crucifixes you can have it on your belt or in your hand an
 
 - if you have a spare slot and there is one already in the ghost's room, leave it on your belt
 - if the ghost is avoiding you so you cannot complete objectives it might be afraid of your crucifix
+- ensure the Crucifix is in the middle of the room as the range is low
