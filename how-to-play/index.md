@@ -124,3 +124,7 @@ An optional objective is to witness a ghost event. It can be one of the followin
 - hearing the ghost walking or its voice
 - seeing the ghost's footprints
 - watching someone else die
+
+## Bones
+
+They give EXP for taking a photo of the bones and for picking them up. No other benefits.
