@@ -12,7 +12,9 @@ Some ghosts dislike the crucifix so can protect the user from being attacked dep
 
 ## How to use it - ghost's room
 
-When you find the room the ghost is haunting, place the crucifix in the middle of it on the floor (this doesn't really matter but it is easy to remember where you put it).
+When you find the room the ghost is haunting, place the crucifix in the middle of it on the floor.
+
+It has a range so if you place it on one side of the room there is a chance the ghost will spawn on the opposite side and still hunt.
 
 ## How to use it - defending yourself
 
