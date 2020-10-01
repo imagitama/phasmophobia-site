@@ -93,3 +93,20 @@ One person should complete the evidence and select the ghost then press the keyp
 ## Evidence
 
 See the [Evidence](/evidence) page.
+
+## Sanity
+
+Your sanity is a percentage and is displayed inside the truck. It drops when you are in darkness and if you witness ghost events.
+
+If you look at a Shade your sanity will drop very quickly.
+
+### Recovering sanity
+
+You can only recover sanity by using Sanity Pills.
+
+<details>
+  <summary>Advanced</summary>
+  
+  - sanity drains slower in Setup Phase
+  - you lose sanity at the rate of `deltatime * ghost_sanity_strength` where all ghosts have a `ghost_sanity_strength` of 0.02 but Shade has 0.4
+</details>
