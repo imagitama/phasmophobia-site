@@ -28,6 +28,8 @@ When the ghost wants to try to kill you, it enters a hunting mode. Your flashlig
 
 After that, it will move through the house and if it is near you, could try and kill you!
 
+**During the hunt the radio on your shoulder does not work at all.**
+
 ### How to hide
 
 - hide inside a closet or locker
