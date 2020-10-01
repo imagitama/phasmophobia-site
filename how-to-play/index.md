@@ -109,3 +109,12 @@ You can only recover sanity by using Sanity Pills.
   - sanity can never drop below 50% in Setup Phase
   - sanity drains slower in Setup Phase (0.09 vs 0.12)
 </details>
+
+## Ghost Events
+
+An optional objective is to witness a ghost event. It can be one of the following:
+
+- seeing the ghost
+- hearing the ghost walking or its voice
+- seeing the ghost's footprints
+- watching someone else die
