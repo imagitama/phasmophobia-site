@@ -4,9 +4,19 @@ title: Smudge Stick
 
 # Smudge Stick
 
-This item is a single-use item and can be used to help defend yourself during the hunt.
+**Delay Hunt: 5 seconds**
 
-When the hunt has begun (the lights have stopped flickering) and the ghost is nearby, light it with a ligher and the ghost will avoid trying to kill you (but not your nearby friends).
+This item is a single-use item that can help the holder defend against the ghost during a hunt and can delay the hunt when it begins.
+
+## Start of the hunt
+
+When the hunt is starting (lights flickering) you can light it to delay the hunt for 5 seconds.
+
+## During the hunt
+
+When the hunt has begun (lights stopped flickering) and the ghost is nearby, light it with a lighter and the ghost will avoid trying to kill you.
+
+It can still kill you and it might not protect your nearby friends.
 
 ## Completing the optional objective
 
