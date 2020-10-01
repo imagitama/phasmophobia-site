@@ -26,8 +26,12 @@ Yes if you just moved outside and the ghost thinks you are still inside. The gho
 
 It is random. It could be 10 seconds after the last hunt or could be 5 minutes. It depends on the ghost type too.
 
+### How do I turn off the car alarm?
+
+Pick up the car key somewhere in the house (usually at the front door in a bowl) and use it on the driver's side door of the car.
+
 ## Items
 
-### How do I lose items?
+### Why did my items disappear in the lobby?
 
-If you die you will lose all of the items you have purchased. Regardless if someone else picked them up.
+When you die you lose all of the items you added to the lobby you died in. Any items you did not add should not be lost.

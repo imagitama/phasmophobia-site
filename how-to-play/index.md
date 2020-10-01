@@ -38,6 +38,10 @@ After that, it will move through the house and if it is near you, could try and 
 
 When the lights stop flickering then the hunt is over.
 
+### Notes
+
+- the ghost can start hunting anywhere in the building but has an 80% chance to start from the room they are haunting
+
 ## Van
 
 ### Monitor
@@ -126,3 +130,16 @@ You can only recover sanity by using Sanity Pills.
   
   * The die roll is a random number generated from a range which is specific to each kind of action. For some actions the rolls may be 25% chance, where others have <10% chance.
 </details>
+
+## Ghost Events
+
+An optional objective is to witness a ghost event. It can be one of the following:
+
+- seeing the ghost
+- hearing the ghost walking or its voice
+- seeing the ghost's footprints
+- watching someone else die
+
+## Bones
+
+They give EXP for taking a photo of the bones and for picking them up. No other benefits.

@@ -6,15 +6,15 @@ title: Spirit Box
 
 **Evidence: Yes**
 
-This item is used to talk to the ghost. If the ghost is nearby and if the ghost responds to the spirit box it will give you 1 word answers. If it responds to you then it is a form of evidence.
+This item is used to talk to the ghost. Turn it on and ask it questions like "are you there" and if it gives you a 1 word answer like "kill" or "yes" or "die" or something then you have found that evidence.
 
-**Ensure the lights are turned off and the ghost is nearby to talk to the ghost.**
+## Notes
 
-## Evidence
+You can either talk to it when it is near your or talk to it inside the haunted room.
 
-If you say anything into the Spirit Box and you hear someone reply using the Spirit Box then you have identified the "Spirit Box" evidence.
+Ensure the lights are turned off to get a response.
 
-**You do not need to take a photo of the Spirit Box for the evidence to count.**
+You do not need to take a photo of the Spirit Box for the evidence to count.
 
 ## What should I ask it?
 
