@@ -106,7 +106,8 @@ You can only recover sanity by using Sanity Pills.
 
 <details>
   <summary>Advanced</summary>
-  
-  - sanity drains slower in Setup Phase
+ 
   - you lose sanity at the rate of `deltatime * ghost_sanity_strength` where all ghosts have a `ghost_sanity_strength` of 0.02 but Shade has 0.4
+  - sanity can never drop below 50% in Setup Phase
+  - sanity drains slower in Setup Phase (0.09 vs 0.12)
 </details>
