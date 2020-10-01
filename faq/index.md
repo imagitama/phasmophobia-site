@@ -28,6 +28,6 @@ It is random. It could be 10 seconds after the last hunt or could be 5 minutes. 
 
 ## Items
 
-### How do I lose items?
+### Why did my items disappear in the lobby?
 
-If you die you will lose all of the items you have purchased. Regardless if someone else picked them up.
+When you die you lose all of the items you added to the lobby you died in. Any items you did not add should not be lost.
