@@ -4,7 +4,9 @@ title: Salt
 
 # Salt
 
-You can place up to 3 piles of salt on the floor inside the building. If a ghost walks through it then the pile of salt will be disturbed and the UV light might reveal footprints.
+Place salt inside the building to see if the ghost is moving through an area (if the ghost does not fly). If a ghost walks through it then the pile of salt will be disturbed and the UV light might reveal footprints.
+
+You can place 3 piles of salt per cannister of salt.
 
 ## Wraiths
 
