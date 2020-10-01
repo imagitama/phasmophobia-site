@@ -8,6 +8,19 @@ Follow the steps from the developers here to get voice detection working: [https
 
 ## What questions can you ask
 
-This is a list of everything you can ask: [https://gameplay.tips/guides/8529-phasmophobia.html](https://gameplay.tips/guides/8529-phasmophobia.html)
+There is a very long list of all possible phrases you can ask the ghost. Try out these kinds of questions:
+
+- "Give us a sign"
+- "Are you there"
+- "Turn on the lights"
 
 **Remember that the ghost can hear you even without the Spirit Box. When it is hunting keep your voice quiet!**
+
+### Ouija Board
+
+There are additional questions you can ask using the Ouija Board such as:
+
+- "What is your favourite room"
+- "How old are you"
+
+etc.
