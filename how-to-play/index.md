@@ -70,15 +70,13 @@ At a higher level you can purchase sound sensors which are reported here.
 
 ### Activity
 
-**This is one of the most important parts of the van.**
+It informs you when the ghost is active inside the building. If it is high it means the ghost is probably moving around or interacting with objects.
 
-It informs you when the ghost is active inside the building. This is your highest priority if you are in the van.
+**If the activity is at 10 then the ghost is hunting and you cannot use the radio from the van.**
 
 #### Tips
 
-- if you are in the van, check this every few seconds
-- when it is at 10 immediately inform your teammates so they can hide from the hunt
-- it is sometimes helpful to tell your teammates when it goes from 0 to a number and vice versa so they know if they are doing it right
+- it is probably helpful to inform teammates of sudden jumps in activity in case it is a reaction to something they did
 
 ## Journal
 
