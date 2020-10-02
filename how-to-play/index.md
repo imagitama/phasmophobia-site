@@ -48,3 +48,5 @@ An optional objective is to witness a ghost event. It can be one of the followin
 ## Bones
 
 They give EXP for taking a photo of the bones and for picking them up. No other benefits.
+
+They also (probably) give you money for picking them up (to be confirmed)
