@@ -18,7 +18,7 @@ After the setup phase is complete the ghost can enter [hunting mode](./hunting-m
 
 Each player spawns, monitors the building and players and more from the [van](./van).
 
-## Journal
+## [Journal](./journal)
 
 Each player has a [journal](./journal) to learn about the game and to complete it.
 
