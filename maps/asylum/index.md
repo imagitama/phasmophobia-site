@@ -4,9 +4,8 @@ title: Asylum
 
 # Asylum
 
-**Size: Large**
-
-**Unlocks: Level 3**
+**Size: Large**  
+**Unlocks: Level 5**
 
 An abandoned mental hospital. It is the largest map and has 2 floors connected by 2 staircases.
 
