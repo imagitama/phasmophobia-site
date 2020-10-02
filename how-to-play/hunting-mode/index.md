@@ -4,9 +4,15 @@ title: Hunting Mode
 
 # Hunting Mode
 
-When the ghost wants to try to kill you, it enters a hunting mode. Your flashlights will flicker and the house lights will flicker for approximately 8 seconds. The front door will lock for the duration of the hunt.
+**Duration: 8 seconds**
 
-After that, it will move through the house and if it is near you, could try and kill you!
+The hunting mode is when the ghost tries to kill a single player. It only happens after [Setup Phase](../setup-phase).
+
+## When does it start
+
+Your flashlights will flicker and the house lights will flicker for 8 seconds. The front door will lock for the duration of the hunt.
+
+After that initial flickering, the ghost will start to move inside the house to kill a player. Your flashlights will flicker for the duration of the hunt.
 
 **During the hunt the radio on your shoulder does not work at all.**
 
@@ -16,9 +22,9 @@ After that, it will move through the house and if it is near you, could try and 
 - hide inside a room and close the door
 - burn a Smudge Stick when the ghost is near you to give yourself more time to hide
 
-## When does the hunt end
+## When does it end
 
-When the lights stop flickering then the hunt is over.
+When the flashlight and houselights stop flickering the hunt is over.
 
 ## Notes
 
