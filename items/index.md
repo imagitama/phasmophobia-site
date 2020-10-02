@@ -92,3 +92,11 @@ Place on a wall and if there is any sound in a room it will show on the map in t
 ## [Tripod](./tripod)
 
 A tripod for the video camera.
+
+# Other Items
+
+These items cannot be purchased or started off with.
+
+## [Ouija Board](./ouija-board)
+
+An item that is sometimes found inside the building and lets you talk to the ghost (at the cost of sanity).
