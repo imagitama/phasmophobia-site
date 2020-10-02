@@ -6,7 +6,11 @@ title: Video Camera
 
 A camera that can be placed anywhere and what it captures can be seen on the monitor in the truck.
 
-Use it to spot Ghost Orbs and to track players and the ghost itself.
+It is the only way to complete the Ghost Orb evidence.
+
+## Notes
+
+- the only thing you can take a photo of through the video camera are ghost orbs (ie you cannot take a photo of the ghost)
 
 ## Tips
 
