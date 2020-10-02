@@ -36,6 +36,10 @@ Pick up the car key somewhere in the house (usually at the front door in a bowl)
 
 It has a chance to spawn on any map and is not guaranteed. They are hidden in garages or cabinets. Using the board will drop your sanity very quickly!
 
+### What happens if I incorrectly guess the ghost?
+
+You will not gain any money or EXP.
+
 ## Items
 
 ### Why did my items disappear in the lobby?
