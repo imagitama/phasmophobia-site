@@ -4,6 +4,8 @@ title: Frequently Asked Questions
 
 # Frequently Asked Questions
 
+Also visit the [Official Discord](https://discordapp.com/channels/435431947963990026/435432207071313922/761107434898325535) for more questions and answers.
+
 ## General
 
 ### When does the timer start?
@@ -29,6 +31,10 @@ It is random. It could be 10 seconds after the last hunt or could be 5 minutes. 
 ### How do I turn off the car alarm?
 
 Pick up the car key somewhere in the house (usually at the front door in a bowl) and use it on the driver's side door of the car.
+
+### How do I find the Ouija Board?
+
+It has a chance to spawn on any map and is not guaranteed. They are hidden in garages or cabinets. Using the board will drop your sanity very quickly!
 
 ## Items
 
