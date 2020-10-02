@@ -8,7 +8,7 @@ Your sanity is a percentage and is displayed inside the truck. It drops when you
 
 ## Low sanity
 
-When your sanity is low the ghost gets stronger. Your flashlight might randomly flicker.
+When your sanity is low it will increase the chances of a hunt. Your flashlight might also flicker randomly.
 
 ## Shade
 
