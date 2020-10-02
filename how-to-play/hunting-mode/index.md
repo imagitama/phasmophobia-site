@@ -4,13 +4,15 @@ title: Hunting Mode
 
 # Hunting Mode
 
-**Duration: 8 seconds**
-
 The hunting mode is when the ghost tries to kill a single player. It only happens after [Setup Phase](../setup-phase).
 
 ## When does it start
 
-Your flashlights will flicker and the house lights will flicker for 8 seconds. The front door will lock for the duration of the hunt.
+**Start Duration: 8 seconds**
+
+You are safe for the first 8 seconds of the hunt.
+
+Your flashlights will start to flicker and the house lights will flicker. The front door will lock for the duration of the hunt.
 
 After that initial flickering, the ghost will start to move inside the house to kill a player. Your flashlights will flicker for the duration of the hunt.
 
