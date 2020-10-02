@@ -30,12 +30,20 @@ Tips:
 
 ## Ghost Writing Book
 
-If you place the Ghost Writing Book in the room the ghost is haunting it could write words into it like "kill kill kill".
+If you place the Ghost Writing Book in the room the ghost is haunting it could write words into it like "kill kill kill" or even symbols. It should not be blank to be a form of evidence.
+
+Tips:
+
+- Prop the book against a wall and point the video camera at it to check this evidence from the van
 
 ## EMF Reader
 
 If the EMF Reader goes up to the maximum level (5) then it is a form of evidence.
 
-## Spirit Box
+Tips:
 
-If you talk into the Spirit Box and the ghost replies (with a 1 word answer like "kill" or "ok" or "hello" etc.) then it is evidence.
+- Prop the book against a wall and point the video camera at it to check this evidence from the van
+
+## [Spirit Box](../items/spirit-box)
+
+If you get a response from the Spirit Box then that is evidence. Click [here](../items/spirit-box) for more info.
