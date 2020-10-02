@@ -35,3 +35,14 @@ When the flashlight and houselights stop flickering the hunt is over.
 - identify lockers and closets during the setup phase
 - make note of any rooms you can hide in while walking around
 - carry a Smudge Stick with you to delay the ghost killing you
+
+## Advanced
+
+<details>
+  <summary>Click to reveal</summary>
+  
+  **This is technical information! It could spoil your play experience knowing too much about how the game works. This information is datamined and could change with future updates, not be implemented in the game, or not fully understood. Read below at your own discretion.**
+ 
+  - The chance for a most ghosts to begin hunting is based on the average sanity of all players in the lobby then by a die roll* (still being investigated)
+</details
+
