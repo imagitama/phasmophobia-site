@@ -27,6 +27,10 @@ A radio-like device that lets you talk to the ghost and ask it questions (if it 
 
 Shine it on doors, light switches and windows and it might reveal fingerprints which can be used for evidence.
 
+## [Video Camera](./video-camera)
+
+Sends a live video feed to the van and is used to see Ghost Orbs.
+
 # Purchasable items
 
 These items can be purchased from the shop at all levels.
