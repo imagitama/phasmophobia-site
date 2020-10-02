@@ -26,7 +26,7 @@ Yes if you just moved outside and the ghost thinks you are still inside. The gho
 
 ### How often does the ghost hunt?
 
-It is random. It could be 10 seconds after the last hunt or could be 5 minutes. It depends on the ghost type too.
+It is a combination of chance and an average of all player's sanity.
 
 ### How do I turn off the car alarm?
 
