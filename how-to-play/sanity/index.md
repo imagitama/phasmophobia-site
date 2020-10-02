@@ -10,6 +10,8 @@ Your sanity is a percentage and is displayed inside the truck. It drops when you
 
 When your sanity is low the ghost gets stronger.
 
+You might also hear a heartbeat sound and your flashlight might randomly flicker.
+
 ## Shade
 
 If you look at a Shade ghost your sanity will drop very quickly.
