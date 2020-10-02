@@ -16,6 +16,8 @@ Ensure the lights are turned off to get a response.
 
 You do not need to take a photo of the Spirit Box for the evidence to count.
 
+It (probably) still detects your voice even when push to talk is enabled and you aren't talking (to be confirmed).
+
 ## What should I ask it?
 
 Technically it can give you hints about itself and what to do to defeat it however in most cases just getting a response is enough. You can leave the Spirit Box anywhere and move on with the game.
