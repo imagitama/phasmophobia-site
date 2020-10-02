@@ -41,3 +41,9 @@ It has a chance to spawn on any map and is not guaranteed. They are hidden in ga
 ### Why did my items disappear in the lobby?
 
 When you die you lose all of the items you added to the lobby you died in. Any items you did not add should not be lost.
+
+## Controls
+
+### Does it support full body tracking?
+
+No.
