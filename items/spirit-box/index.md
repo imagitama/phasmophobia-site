@@ -30,6 +30,8 @@ You can ask it a variety of questions such as:
 
 You can test if your voice detection is working by turning on the spirit box and asking "are you there". If it the ghost responds or says "Nothing Detected" on the device then it is working.
 
+You can verify your voice detection is working by going to Main Menu -> Options -> Audio and clicking the Test button.
+
 **Ensure you have not alt-tabbed from the game and that you have clicked on the game window so that voice detection works!**
 
 ## Without voice detection
