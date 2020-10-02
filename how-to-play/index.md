@@ -20,9 +20,7 @@ Each player spawns, monitors the building and players and more from the [van](./
 
 ## Journal
 
-When inside VR, reach over your right shoulder and grab or use (with trigger) to open your Journal. It explains everything about the game.
-
-At the back of the Journal you can select your 3 forms of evidence then select which type of ghost it is. When you are satisfied you can end the round (below).
+Each player has a [journal](./journal) to learn about the game and to complete it.
 
 ## Ending the round
 
