@@ -24,7 +24,9 @@ Each player has a [journal](./journal) to learn about the game and to complete i
 
 ## Ending the round
 
-One person should complete the evidence and select the ghost then press the keypad inside the van.
+Each player needs to select the evidence and the ghost type to ensure you get full EXP and money.
+
+Then any player presses the keypad inside the van to end the round.
 
 **You cannot end the game unless everyone is inside the van.**
 
