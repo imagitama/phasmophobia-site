@@ -50,3 +50,9 @@ An optional objective is to witness a ghost event. It can be one of the followin
 They give EXP for taking a photo of the bones and for picking them up. No other benefits.
 
 They also (probably) give you money for picking them up (to be confirmed)
+
+## Death
+
+If you die you will lose all of the items you added to the mission but your insurance will cover 50% of the value of the items.
+
+For example if you spend $100 on a motion sensor, you bring it on a mission then you die, at the end of the mission you will lose the sensor but you will be given $50.
